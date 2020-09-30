@@ -23,6 +23,6 @@ Hello World! Its me, Richard! I am a Budding Data Scientist and Machine Learning
 
 - 🛠 Comfortable with Python, SQL, Tableau, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
 - 👨🏻‍💻 Currently working on Deep Learning and Machine Learning Algorithms.
-- ⚡️ You can visit my <a href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background
+- 🌐 You can visit my <a href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background
 - 📫 You can reach me at: taracharichard@gmail.com.
 
