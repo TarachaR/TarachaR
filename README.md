@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/67068918/94738430-12205600-0378-11eb-81d5-665826b82ca3.png)
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/67068918/94739537-cec6e700-0379-11eb-9074-77b9be8f846b.gif)
 
 ### Hey 👋, I'm Richard Taracha!
 
