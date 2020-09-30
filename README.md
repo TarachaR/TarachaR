@@ -11,9 +11,6 @@
 <a href="https://www.codecademy.com/profiles/TarachaR">
   <img align="left" alt="Richard's Codecademy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/codecademy.svg" />
 </a>
-<a href="https://www.coursera.org/user/2d0d39f3864e5277a1ca625b84929c6f">
-  <img align="left" alt="Richard's Cousera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/coursera.svg" />
-</a>
 
 <br />
 <br />
