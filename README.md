@@ -11,6 +11,9 @@
 <a href="https://www.codecademy.com/profiles/TarachaR">
   <img align="left" alt="Richard's Codecademy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/codecademy.svg" />
 </a>
+<a href="https://www.glassdoor.com/member/profile/index.htm">
+  <img align="left" alt="Richard's Glassdoor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/glassdoor.svg" />
+</a>
 
 <br />
 <br />
