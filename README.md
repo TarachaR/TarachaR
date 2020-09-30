@@ -17,6 +17,9 @@
 <a href="https://docs.microsoft.com/en-us/users/richardtaracha-1974/">
   <img align="left" alt="Richard's Microsoft Learn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/microsoftazure.svg" />
 </a>
+<a href="https://richardtaracha.glitch.me/">
+  <img align="left" alt="Richard's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/firefoxbrowser.svg" />
+</a>
 
 <br />
 <br />
