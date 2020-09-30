@@ -1,6 +1,10 @@
 ### Hey 👋, I'm Richard Taracha!
 
-
+<a href="https://twitter.com/Vycellous_Drum">
+  <img align="left" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
+  <img align="left" alt="Richard's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 <br />
