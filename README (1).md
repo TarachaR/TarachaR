@@ -1,3 +1,5 @@
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/67068918/94738430-12205600-0378-11eb-81d5-665826b82ca3.png)
+
 ### Hey 👋, I'm Richard Taracha!
 
 <a href="https://twitter.com/Vycellous_Drum">
