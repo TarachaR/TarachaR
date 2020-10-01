@@ -1,6 +1,6 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/67068918/94739537-cec6e700-0379-11eb-9074-77b9be8f846b.gif)
 
-### Hey 👋, I'm Richard Taracha!
+### Hey 👋, I'm Richard!
 
 <a href="https://twitter.com/Vycellous_Drum">
   <img align="left" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,7 +25,7 @@ Hello World! Its me, Richard! I am a Budding Data Scientist and Machine Learning
 **Interests:**
 
 - 🛠 Comfortable with Python, SQL, Tableau, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
-- 💻Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 💻Currently working, learning and growing my skillset in deep learning and machine algorithms.
 - 🌐 You can visit my <a href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background
 - 📫 You can reach me at: taracharichard@gmail.com.
 
