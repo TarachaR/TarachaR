@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
   <img align="left" alt="Richard's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.glassdoor.com/member/profile/index.htm">
-  <img align="left" alt="Richard's Glassdoor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/glassdoor.svg" />
-</a>
+
 
 <br />
 <br />
