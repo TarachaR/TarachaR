@@ -1,15 +1,6 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/67068918/94739537-cec6e700-0379-11eb-9074-77b9be8f846b.gif)
 
 ### Hello 👋 and welcome to my GitHub Page!
-
-<a href="https://twitter.com/Vycellous_Drum">
-  <img align="left" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
-  <img align="left" alt="Richard's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
 <br />
 <br />
 
