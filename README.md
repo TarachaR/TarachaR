@@ -2,7 +2,6 @@
 
 ### Hello 👋 and welcome to my GitHub Page!
 <br />
-<br />
 
 I am a Budding Data Scientist and Machine Learning Practitioner aspiring to live at the intersection of best statistical innovations + technology + business expertise. The data science field is growing rapidly and there are always new things to learn. This is something that I enjoy a lot: learning new content and sharing my knowledge with others. 
 
