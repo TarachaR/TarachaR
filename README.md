@@ -2,7 +2,7 @@
 
 ### Hello 👋 and welcome to my GitHub Page!
 
-  <img align="right" height="250" width="400" alt="GIF" src="https://cdn.lowgif.com/medium/79d8b7408bfd1f90-keep-working-by-jesse-luo-dribbble.gif" />
+  <img align="right" height="250" width="400" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 **Interests:**
 
