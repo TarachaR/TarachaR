@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/67068918/94739537-cec6e700-0379-11eb-9074-77b9be8f846b.gif)
+
 
 ### Hello 👋 and welcome to my GitHub Page!
 
