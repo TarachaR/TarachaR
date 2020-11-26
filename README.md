@@ -2,7 +2,7 @@
 
 ### Hello 👋 and welcome to my GitHub Page!
 
-  <img align="right" height="300" width="300" alt="GIF" src="https://cliply.co/wp-content/uploads/2019/05/371905140_MEET_ROBOT_400px.gif" />
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 </br>
 </br>
 
