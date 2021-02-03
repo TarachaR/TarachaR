@@ -6,7 +6,7 @@
 </br>
 </br>
 
-- 🛠 Comfortable with Python, SQL, Tableau, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
+- 🛠 Comfortable with Python, SQL, Power BI, Tableau, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
 - 💻Currently working, learning and growing my skillset in deep learning and machine algorithms.
 - 🌐 You can visit my <a href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background
 - 📫 You can reach me at: taracharichard@gmail.com.
