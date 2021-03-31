@@ -3,12 +3,12 @@
 ### Hello <img align="left" height="40" width="40" alt="GIF" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> and welcome to my GitHub Page!
 
 <!-- LinkedIn-->
-<a href="https://www.linkedin.com/in/d0r1h/">
+<a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <!-- Twitter-->
-<a href="https://twitter.com/d0r1h">
+<a href="https://twitter.com/Vycellous_Drum">
   <img align="left" alt="Pawan Trivedi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -18,18 +18,18 @@
 </a>
 
 <!--GitHub-->
-<a href="https://www.kaggle.com/undersc0re">
+<a href="https://github.com/TarachaR">
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
 </a>
 
 <!--GitLab-->
-<a href="https://www.kaggle.com/undersc0re">
+<a href="https://gitlab.com/TarachaR">
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
 </a>
 
 <!--Tableau-->
 <a href="https://www.kaggle.com/undersc0re">
-  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0" />
 </a>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
