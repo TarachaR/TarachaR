@@ -27,9 +27,9 @@
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
 </a>
 
-<!--Tableau-->
-<a href="https://www.kaggle.com/undersc0re">
-  <img align="left" alt="Pawan Trivedi" width="22px" src="https://www.linkedin.com/in/richard-taracha-098645a2/" />
+<!--GitLab-->
+<a href="https://gitlab.com/TarachaR">
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
 </a>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
