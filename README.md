@@ -29,7 +29,7 @@
 
 <!--Tableau-->
 <a href="https://www.kaggle.com/undersc0re">
-  <img align="left" alt="Pawan Trivedi" width="22px" src="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0" />
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://www.linkedin.com/in/richard-taracha-098645a2/" />
 </a>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
