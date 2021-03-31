@@ -7,6 +7,7 @@
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<!-- Twitter-->
 <a href="https://twitter.com/d0r1h">
   <img align="left" alt="Pawan Trivedi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -16,9 +17,19 @@
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
 </a>
 
-<!--Kaggle-->
+<!--GitHub-->
 <a href="https://www.kaggle.com/undersc0re">
-  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/kaggle.svg" />
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
+</a>
+
+<!--GitLab-->
+<a href="https://www.kaggle.com/undersc0re">
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
+</a>
+
+<!--Tableau-->
+<a href="https://www.kaggle.com/undersc0re">
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
 </a>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
