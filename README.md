@@ -13,7 +13,7 @@
 </a>
 
 <!-- Whatsapp-->
-<a href="https://api.whatsapp.com/send?phone=0706461385&text=&source=&data=&app_absent=">
+<a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
   <img align="left" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
 </a>
 
