@@ -36,7 +36,7 @@
 </br>
 </br>
 
-- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Comfortable with Python,     SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
+- <img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Comfortable with Python,             SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
 - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444224-3f9e94c2-0bd3-4900-9b04-31b7eb8d7149.png">Currently working,           learning and growing my skillset in Deep Learning and Machine Learning algorithms.
 - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444689-854021a1-a057-4d6e-ab66-35e79c8e9785.png">You can visit my <a          href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background
 - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">You can reach me at:         taracharichard@gmail.com / taracharichard@yahoo.com
