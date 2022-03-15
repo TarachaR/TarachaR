@@ -36,9 +36,7 @@
 </br>
 </br>
 
-- <img align="left" width="60" height="60" src="https://user-images.githubusercontent.com/67068918/158442370-a4159735-abbe-470a-ab3c-62c0ee16fd70.gif">Comfortable with Python,     SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
+- <img align="left" width="60" height="60" src="https://user-images.githubusercontent.com/67068918/158442897-ee7c3b44-ad73-45ce-93f7-8cbd507675c9.gif">Comfortable with Python,     SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
 - 💻Currently working, learning and growing my skillset in Deep Learning and Machine Learning algorithms.
 - 🌐 You can visit my <a href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background
 - 📫 You can reach me at: taracharichard@gmail.com / taracharichard@yahoo.com
-
-
