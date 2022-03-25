@@ -2,7 +2,7 @@
 
 <!-- ### Hello <img align="left" height="40" width="40" alt="GIF" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> and welcome to my GitHub Page! -->
 
-### Hello <img align="left" height="40" width="40" alt="GIF" src="https://user-images.githubusercontent.com/67068918/160182785-d6f59c1b-16df-4ea5-870a-44ce5ebcad34.gif" /> and welcome to my GitHub Page!
+### Hello <img align="left" height="70" width="70" alt="GIF" src="https://user-images.githubusercontent.com/67068918/160182785-d6f59c1b-16df-4ea5-870a-44ce5ebcad34.gif" /> and welcome to my GitHub Page!
 
 <!-- LinkedIn-->
 <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
