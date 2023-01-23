@@ -5,9 +5,10 @@
 
 <!-- ### Hello <img align="left" height="75" width="75" alt="GIF" src="https://user-images.githubusercontent.com/67068918/160182785-d6f59c1b-16df-4ea5-870a-44ce5ebcad34.gif" /> and welcome to my GitHub Page! -->
 
+<!--SOCIAL ICONS-->
 <!-- LinkedIn-->
 <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
-  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <!-- Twitter-->
