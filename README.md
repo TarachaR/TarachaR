@@ -50,12 +50,12 @@
 </p>
 
 - <p align="left">
-  - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444689-854021a1-a057-4d6e-ab66-35e79c8e9785.png">To get an in-depth understanding of my professional history, please take a look at my portfolio website: <a href="https://richardtaracha.glitch.me/">
-</p>
+  - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444689-854021a1-a057-4d6e-ab66-35e79c8e9785.png">To get an in-depth understanding of my professional history, please take a look at my <a href="https://richardtaracha.glitch.me/" target="_top">portfolio website</a>
+</p>                                                                     
 
 - <p align="left">
   - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">I can be contacted at <strong> taracharichard@gmail.com</strong> or <strong>taracharichard@yahoo.com</strong>.
-</p>
+</p>                                            
 
 
 ![image_processing20191015-21835-e3o9jr](https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif)
