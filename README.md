@@ -53,5 +53,5 @@
 
 <p align="center">
   
-  <img src=""C:\Users\tarac\Downloads\image_processing20191015-21835-e3o9jr.gif"" width="350" alt="accessibility text">
+  <img src="C:\Users\tarac\Downloads\image_processing20191015-21835-e3o9jr.gif" width="350" alt="accessibility text">
 </p>
