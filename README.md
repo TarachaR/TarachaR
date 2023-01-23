@@ -54,7 +54,7 @@
 </p>
 
 - <p align="left">
-  - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">You can reach me at: taracharichard@gmail.com / taracharichard@yahoo.com
+  - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">You can reach me at: <strong> taracharichard@gmail.com</strong> / <strong>taracharichard@yahoo.com</strong>
 </p>
 
 
