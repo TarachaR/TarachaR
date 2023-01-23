@@ -50,7 +50,6 @@
 
 <!--TRY THIS-->
 <p align="left">
-  
   - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Comfortable with Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
 </p>
 
