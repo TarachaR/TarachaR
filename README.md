@@ -34,7 +34,7 @@
   <img align="left" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
 </a>
 
-<!--img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 </br>
 </br>
 
