@@ -41,6 +41,8 @@
 
 <p>  
 
+<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif">
+
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
   - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214104582-097569b5-1838-41ed-ae70-8793caf0643d.svg">Experienced in using Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and other similar programs.
