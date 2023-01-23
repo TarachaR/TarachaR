@@ -43,4 +43,6 @@
 - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444689-854021a1-a057-4d6e-ab66-35e79c8e9785.png">You can visit my <a          href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background
 - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">You can reach me at:         taracharichard@gmail.com / taracharichard@yahoo.com
 
+<!---
 ![image_processing20191015-21835-e3o9jr](https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif)
+-->
