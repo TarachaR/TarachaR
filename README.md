@@ -14,9 +14,11 @@
 </h1>
 
 <!-- Twitter-->
-<a href="https://twitter.com/Vycellous_Drum">
-  <img align="center" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<h1 align="center">
+  <a href="https://twitter.com/Vycellous_Drum">
+    <img align="center" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+</h1>
 
 <!-- Whatsapp-->
 <a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
