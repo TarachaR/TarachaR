@@ -7,7 +7,7 @@
 
 <!--SOCIAL ICONS-->
 <!-- LinkedIn-->
-<h3 align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
     <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -31,7 +31,7 @@
   <a href="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0">
     <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
   </a>
-</h3>
+</p>
 
 <!--GIFS-->
 <!---
