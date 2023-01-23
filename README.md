@@ -7,7 +7,7 @@
 
 <!--SOCIAL ICONS-->
 <!-- LinkedIn-->
-<a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
+<a href="https://www.linkedin.com/in/richard-taracha-098645a2/" align="center">
   <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
