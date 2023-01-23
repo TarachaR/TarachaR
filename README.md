@@ -33,6 +33,7 @@
   </a>
 </p>
 
+
 <!--GIFS-->
 <!---
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
@@ -43,6 +44,7 @@
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
   - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Experienced in using Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and other similar programs.
+  
 </p>
 
 - <p align="left">
