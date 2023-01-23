@@ -9,27 +9,27 @@
 <!-- LinkedIn-->
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
-    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <!-- Twitter-->
   <a href="https://twitter.com/Vycellous_Drum">
-    <img align="center" alt="Richard Taracha | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="center" alt="Richard Taracha | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <!-- Whatsapp-->
   <a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
-    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
+    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
   </a>
   <!--GitHub-->
   <a href="https://github.com/TarachaR">
-    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
+    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
   </a>
   <!--GitLab-->
   <a href="https://gitlab.com/TarachaR">
-    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
+    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
   </a>
   <!--TableauPublic-->
   <a href="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0">
-    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
+    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
   </a>
 </p>
 
@@ -59,5 +59,4 @@
 
 
 ![image_processing20191015-21835-e3o9jr](https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif)
-
 
