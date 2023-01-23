@@ -1,3 +1,10 @@
+```css
+<style>
+    h1 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+</style>
+
 <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif">
       freeCodeCamp
 </h1>
