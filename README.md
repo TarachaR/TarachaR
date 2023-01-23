@@ -41,7 +41,7 @@
 
 <p>  
 
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157045461-11d7bf19-52a8-4e96-8715-c97938593c3d.gif">
+<img align="right" width="400" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
