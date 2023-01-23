@@ -11,15 +11,13 @@
   <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
     <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
+  <!-- Twitter-->
   <a href="https://twitter.com/Vycellous_Drum">
     <img align="center" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-</h1>
-
-<!-- Twitter-->
-<h1 align="center">
-  <a href="https://twitter.com/Vycellous_Drum">
-    <img align="center" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <!-- Whatsapp-->
+  <a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
+    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
   </a>
 </h1>
 
