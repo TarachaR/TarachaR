@@ -58,7 +58,7 @@
 </p>
 
 - <p align="left">
-  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158447015-19d41a1d-42cf-4d1f-a833-f628f08c2f24.png">Currently working, learning and growing my skillset in Deep Learning and Machine Learning algorithms.
+  - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444689-854021a1-a057-4d6e-ab66-35e79c8e9785.png">You can visit my <a href="https://richardtaracha.glitch.me/">portfolio website</a> to view my complete background.
 </p>
 
 
