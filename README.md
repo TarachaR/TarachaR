@@ -37,7 +37,8 @@
 <!---
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 -->
-                                                          
+
+<\br>                                                          
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
   - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Comfortable with Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
@@ -52,7 +53,7 @@
 </p>
 
 - <p align="left">
-  - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">You can reach me at: **taracharichard@gmail.com / taracharichard@yahoo.com**
+  - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">You can reach me at: taracharichard@gmail.com / taracharichard@yahoo.com
 </p>
 
 
