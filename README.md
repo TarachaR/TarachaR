@@ -52,7 +52,7 @@
 <p align="left">
   
   - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Comfortable with Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
-  - <img width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158447015-19d41a1d-42cf-4d1f-a833-f628f08c2f24.png">Currently working, learning and growing my skillset in Deep Learning and Machine Learning algorithms.
+  - <img align="right" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158447015-19d41a1d-42cf-4d1f-a833-f628f08c2f24.png">Currently working, learning and growing my skillset in Deep Learning and Machine Learning algorithms.
 </p>
 
 
