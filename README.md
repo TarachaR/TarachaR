@@ -49,7 +49,7 @@
 - <img align="left" width="23" height="23" src="https://user-images.githubusercontent.com/67068918/158444999-d63a1807-4c52-4d47-b981-cc50953582c9.png">You can reach me at:taracharichard@gmail.com / taracharichard@yahoo.com
 
 <!--TRY THIS-->
-<p align="left">
+- <p align="left">
   - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/158443744-d15968ca-079e-4972-a1f0-8347d068bbda.png">Comfortable with Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and more.
 </p>
 
