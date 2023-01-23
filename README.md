@@ -19,27 +19,19 @@
   <a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
     <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
   </a>
+  <!--GitHub-->
+  <a href="https://github.com/TarachaR">
+    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
+  </a>
+  <!--GitLab-->
+  <a href="https://gitlab.com/TarachaR">
+    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
+  </a>
+  <!--TableauPublic-->
+  <a href="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0">
+    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
+  </a>
 </h1>
-
-<!-- Whatsapp-->
-<a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
-  <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
-</a>
-
-<!--GitHub-->
-<a href="https://github.com/TarachaR">
-  <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
-</a>
-
-<!--GitLab-->
-<a href="https://gitlab.com/TarachaR">
-  <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
-</a>
-
-<!--TableauPublic-->
-<a href="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0">
-  <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
-</a>
 
 <!--GIFS-->
 <!---
