@@ -13,23 +13,23 @@
   </a>
   <!-- Twitter-->
   <a href="https://twitter.com/Vycellous_Drum">
-    <img align="center" alt="Richard Taracha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="center" alt="Richard Taracha | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <!-- Whatsapp-->
   <a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
-    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
+    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
   </a>
   <!--GitHub-->
   <a href="https://github.com/TarachaR">
-    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
+    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
   </a>
   <!--GitLab-->
   <a href="https://gitlab.com/TarachaR">
-    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
+    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
   </a>
   <!--TableauPublic-->
   <a href="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0">
-    <img align="center" alt="Richard Taracha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
+    <img align="center" alt="Richard Taracha" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 -->
 
-<br>  
+<p>  
 
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
