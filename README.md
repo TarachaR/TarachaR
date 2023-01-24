@@ -9,37 +9,37 @@
 <!-- LinkedIn-->
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
-    <!--<img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />-->
-    <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214380938-42fef241-7b66-495f-998b-2b803b9ece09.svg" />
+    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    
   </a>
   <!-- Twitter-->
   <a href="https://twitter.com/Vycellous_Drum">
     <img align="center" alt="Richard Taracha | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    <img align="center" alt="Richard Taracha | Twitter" width="30px" src="https://user-images.githubusercontent.com/67068918/214381430-28fb0c8a-2759-4bfa-88a9-36849c3ff1e2.svg" />
+    
   </a>
   <!-- Whatsapp-->
   <a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
     <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
-    <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214381722-5fdeb259-6de9-4800-bb44-77445d32db90.svg" />
+    
   </a>
   <!--GitHub-->
   <a href="https://github.com/TarachaR">
     <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
-    <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214381957-c6c3d0f1-7565-4afd-bac3-809288a5525b.svg" />
+    
   </a>
   <!--GitLab-->
   <a href="https://gitlab.com/TarachaR">
     <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
-    <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214382162-97fc1519-cca6-4cac-86fb-77c66d5417cc.svg" />
+    
   </a>
   <!--TableauPublic-->
   <a href="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0">
     <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
   </a>
-  <!--Medium-->
+  <!--Medium
   <a href="https://richardtaracha.glitch.me/">
     <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214382577-ab903585-9040-4eba-b4b8-fc1d214a504a.svg" />
-  </a>
+  </a>-->
 </p>
 
 
@@ -75,7 +75,7 @@
 -->
 
 
-![medium-m](https://user-images.githubusercontent.com/67068918/214382577-ab903585-9040-4eba-b4b8-fc1d214a504a.svg)
+
 
 
 
