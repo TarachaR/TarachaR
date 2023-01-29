@@ -76,7 +76,9 @@
 -->
 
 
-
+<p style='font-family: Roboto'>This text is in Roboto font!</p>
+<link href='https://fonts.googleapis.com/css2?family=Open+Sans&display=swap' rel='stylesheet'>
+<p style='font-family: Open Sans'>This text is in Open Sans font!</p>
 
 
 
