@@ -40,6 +40,7 @@
   <a href="https://richardtaracha.glitch.me/">
     <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214382577-ab903585-9040-4eba-b4b8-fc1d214a504a.svg" />
   </a>-->
+
 </p>
 
 
@@ -50,7 +51,7 @@
 
 <p>  
 
-<img align="right" width="415" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
+<img align="right" width="425" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
@@ -68,7 +69,7 @@
 
 - <p align="left">
   - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105883-50f17bbc-47cf-4c39-8470-b1b7315c9b86.svg">I can be contacted at <strong> taracharichard@gmail.com</strong> or <strong>taracharichard@yahoo.com</strong>.
-</p>                                            
+</p>         
 
 <!---
 ![image_processing20191015-21835-e3o9jr](https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif)
