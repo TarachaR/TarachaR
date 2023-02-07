@@ -55,7 +55,7 @@
 
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
-  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214104582-097569b5-1838-41ed-ae70-8793caf0643d.svg">Experienced in using Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, &emsp; &emsp; &emsp; &emsp; Scikit-Learn and other similar programs.
+  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214104582-097569b5-1838-41ed-ae70-8793caf0643d.svg">Experienced in using Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, &emsp; &emsp; &emsp; &emsp;   Scikit-Learn and other similar programs.
   
 </p>
 
