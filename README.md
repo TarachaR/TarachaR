@@ -1,6 +1,6 @@
 <!--INTRODUCTION-->
 <h1 align="center">
-  Hello <img align="center" height="40" width="40" alt="GIF" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> & Welcome To My GitHub Page!
+  <img align="center" height="40" width="40" alt="GIF" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> Hello & Welcome To My GitHub Page!
 </h1>
 
 <!-- ### Hello <img align="left" height="75" width="75" alt="GIF" src="https://user-images.githubusercontent.com/67068918/160182785-d6f59c1b-16df-4ea5-870a-44ce5ebcad34.gif" /> and welcome to my GitHub Page! -->
@@ -55,12 +55,12 @@
 
 <!--TOOLS & TECHNOLOGIES-->
 - <p align="left">
-  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214104582-097569b5-1838-41ed-ae70-8793caf0643d.svg">Experienced in using Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, &emsp; &emsp; &emsp; &emsp;&emsp;Scikit-Learn and other similar programs.
+  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214104582-097569b5-1838-41ed-ae70-8793caf0643d.svg">Experienced in using Python, SQL, Power BI, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and other similar programs.
   
 </p>
 
 - <p align="left">
-  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105208-2e32b13b-9eb5-4e74-848f-b185ca09beba.svg">At present, I am honing my expertise in Deep Learning and Machine Learning models by actively engaging in &emsp; &emsp; &emsp;tasks related to these areas.
+  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105208-2e32b13b-9eb5-4e74-848f-b185ca09beba.svg">At present, I am honing my expertise in Deep Learning and Machine Learning models by actively engaging in tasks related to these areas.
 </p>
 
 - <p align="left">
