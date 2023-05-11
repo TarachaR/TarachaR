@@ -64,7 +64,7 @@
 </p>
 
 - <p align="left">
-  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105601-d27e49e9-9582-4d52-b232-a7fe12956a5d.svg">To get an in-depth understanding of my professional history, please take a look at my <a href="https://richardtaracha.glitch.me/" target="_top">portfolio website</a>
+  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105601-d27e49e9-9582-4d52-b232-a7fe12956a5d.svg">For a comprehensive overview of my professional background, I invite you to review my <a href="https://richardtaracha.glitch.me/" target="_top">portfolio website</a>
 </p>                                                                     
 
 - <p align="left">
