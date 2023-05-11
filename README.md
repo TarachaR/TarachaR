@@ -68,7 +68,7 @@
 </p>                                                                     
 
 - <p align="left">
-  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105883-50f17bbc-47cf-4c39-8470-b1b7315c9b86.svg">Please feel free to reach out to me via email at either <strong>taracharichard@gmail.com</strong> or  &nbsp; <strong>taracharichard@yahoo.com</strong>.
+  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105883-50f17bbc-47cf-4c39-8470-b1b7315c9b86.svg">Please feel free to reach out to me via email at either <strong>taracharichard@gmail.com</strong> or  &nbsp;  &nbsp;  &nbsp; <strong>taracharichard@yahoo.com</strong>.
 </p>         
 
 <!---
