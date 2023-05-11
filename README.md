@@ -60,7 +60,7 @@
 </p>
 
 - <p align="left">
-  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105208-2e32b13b-9eb5-4e74-848f-b185ca09beba.svg">At present, I am honing my expertise in Deep Learning and Machine Learning models by actively engaging in tasks related to these areas.
+  - <img align="left" width="25" height="25" src="https://user-images.githubusercontent.com/67068918/214105208-2e32b13b-9eb5-4e74-848f-b185ca09beba.svg">Currently, I am actively pursuing opportunities to further develop my expertise in Deep Learning and Machine Learning models by engaging in relevant tasks and activities.
 </p>
 
 - <p align="left">
