@@ -59,25 +59,6 @@ This is where I share some of the code I have written for fun or learning. I hop
 &nbsp;
 
 <!--TOOLS & TECHNOLOGIES-->
-<table>
-<tr>
-<td>
-
-| Skill/Experience | Details |  
-|-|-|
-| Programming Skills | Proficient in utilizing a range of programming tools such as Python, SQL, Tableau, TensorFlow, PyTorch, Numpy, Matplotlib, Seaborn, Scikit-Learn and analogous software applications, acquired through substantial experience. |  
-| Machine Learning | Currently, I am actively pursuing opportunities to further develop my expertise in Deep Learning and Machine Learning models by engaging in relevant tasks and activities. |
-| Portfolio | For a comprehensive overview of my professional background, I invite you to review my portfolio website | 
-| Contact Info | Please feel free to reach out to me via email at either taracharichard@gmail.com or taracharichard@yahoo.com. |
-
-</td>
-<td>
-  
-<img align="right" width="425" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
-
-</td>
-</tr>
-</table>
 
 ---
 
