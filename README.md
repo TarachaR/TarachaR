@@ -84,7 +84,7 @@ This is where I share some of the code I have written for fun or learning. I hop
 <table>
 <tr>
 
-<td width="45%">
+<td width="70%">
 
 | Skill/Experience | Details |
 |-|-|
