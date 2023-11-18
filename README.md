@@ -78,7 +78,7 @@ This is where I share some of the code I have written for fun or learning. I hop
 
 <td width="80%">
   
-<img align="right" width="365" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
+<img align="right" width="425" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 </td>
 
