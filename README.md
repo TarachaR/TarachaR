@@ -1,6 +1,6 @@
 <!--INTRODUCTION-->
 <h1 align="center">
-  <img align="center" height="40" width="40" alt="GIF" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> Hello & Welcome To My GitHub Page!
+  <img align="center" height="40" width="40" alt="GIF" src="https://github.com/TarachaR/TarachaR/assets/67068918/c72a1e0b-7c39-4c43-96fc-dc72fec3a201" /> Hello & Welcome To My GitHub Page!
 </h1>
 
 <h3>Hello & Welcome To My GitHub Page!
@@ -86,8 +86,6 @@ This is where I share some of the code I have written for fun or learning. I hop
 </table>
 
 ---
-
-
 
 
 
