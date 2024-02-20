@@ -7,56 +7,20 @@
 This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here. I'm always open to feedback and suggestions, so feel free to leave a comment or a star. If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</h3>
 
 &nbsp;
-----
-<!--SOCIAL ICONS-->
-<!-- LinkedIn-->
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
-    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    
-  </a>
-  <!-- Twitter-->
-  <a href="https://twitter.com/Vycellous_Drum">
-    <img align="center" alt="Richard Taracha | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    
-  </a>
-  <!-- Whatsapp-->
-  <a href="https://api.whatsapp.com/send?phone=+254706461385&text=&source=&data=&app_absent=">
-    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
-    
-  </a>
-  <!--GitHub-->
-  <a href="https://github.com/TarachaR">
-    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
-    
-  </a>
-  <!--GitLab-->
-  <a href="https://gitlab.com/TarachaR">
-    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gitlab.svg" />
-    
-  </a>
-  <!--TableauPublic-->
-  <a href="https://public.tableau.com/profile/richard.taracha#!/?newProfile=&activeTab=0">
-    <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/tableau.svg" />
-  </a>
-  <!--Medium
-  <a href="https://richardtaracha.glitch.me/">
-    <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214382577-ab903585-9040-4eba-b4b8-fc1d214a504a.svg" />
-  </a>-->
+ 
 
-</p> -->
+<img align="right" width="600" height="500" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
-
-<!--GIFS-->
-<!---
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
--->
-
-<!-- 
-<img align="right" width="425" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
--->
-  
-
+<h3>Hello & Welcome To My GitHub Page!</h3>
+<p>This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here. I'm always open to feedback and suggestions, so feel free to leave a comment or a star. If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</p>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <!--TOOLS & TECHNOLOGIES-->
 
@@ -78,7 +42,7 @@ This is where I share some of the code I have written for fun or learning. I hop
 
 <td width="85%">
   
-<img align="right" width="600" height="500" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
+
 
 </td>
 
