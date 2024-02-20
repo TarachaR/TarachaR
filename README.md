@@ -10,7 +10,7 @@ This is where I share some of the code I have written for fun or learning. I hop
 ----
 <!--SOCIAL ICONS-->
 <!-- LinkedIn-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/richard-taracha-098645a2/">
     <img align="center" alt="Richard Taracha" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     
@@ -44,7 +44,7 @@ This is where I share some of the code I have written for fun or learning. I hop
     <img align="center" alt="Richard Taracha" width="30px" src="https://user-images.githubusercontent.com/67068918/214382577-ab903585-9040-4eba-b4b8-fc1d214a504a.svg" />
   </a>-->
 
-</p>
+</p> -->
 
 
 <!--GIFS-->
