@@ -25,7 +25,7 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="150%">
 
 | Skill/Experience | Details |
 |-|-|
@@ -41,7 +41,7 @@
 </table>
 
 
-<img align="center" width="1000" height="500" src="https://github.com/TarachaR/TarachaR/assets/67068918/6664c055-99bc-4cfb-9a51-02018446283a.png">
+<img align="center" width="1000" height="400" src="https://github.com/TarachaR/TarachaR/assets/67068918/6664c055-99bc-4cfb-9a51-02018446283a.png">
 
 
 
