@@ -21,10 +21,11 @@
 
 ---
 
+
 <table>
 <tr>
 
-<td width="10%">
+<td width="50%">
 
 | Skill/Experience | Details |
 |-|-|
@@ -35,11 +36,6 @@
 
 </td>
 
-<td width="85%">
-  
-
-
-</td>
 
 </tr>
 </table>
