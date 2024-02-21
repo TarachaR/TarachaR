@@ -1,6 +1,6 @@
 <!--INTRODUCTION-->
 <h1 align="center">
-  <img align="center" height="60" width="60" alt="GIF" src="https://github.com/TarachaR/TarachaR/assets/67068918/c72a1e0b-7c39-4c43-96fc-dc72fec3a201" /> Hello & Welcome To My GitHub Page!
+  <img align="center" height="60" width="60" alt="GIF" src="https://github.com/TarachaR/TarachaR/assets/67068918/c72a1e0b-7c39-4c43-96fc-dc72fec3a201" /> Sail the Digital Seas: Chart Your Course Through My Code Archipelago!
 </h1>
 
 ---
