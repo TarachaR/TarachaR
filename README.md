@@ -54,3 +54,6 @@
 </tr>
 </table>
 
+
+<h3 align="center">"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</h3>
+
