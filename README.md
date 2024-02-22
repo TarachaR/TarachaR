@@ -56,4 +56,5 @@
 
 
 <h3 align="center">"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</h3>
+<h3 align="center"><i>"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</i></h3>
 
