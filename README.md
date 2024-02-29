@@ -1,13 +1,5 @@
 <!--INTRODUCTION-->
 ![Green and White Technology LinkedIn Banner](https://github.com/TarachaR/TarachaR/assets/67068918/36e0c2ca-8e53-4dd4-b7ed-64f1ae5bc719)
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 <img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 ---
