@@ -1,4 +1,5 @@
 <!--INTRODUCTION-->
+<img align="left" width="1500" height="10" src="https://github.com/TarachaR/TarachaR/assets/67068918/e89267bf-c34e-4497-b3c6-0caa3dd1f0d4.gif">
 <h1 align="center">
   <img align="center" height="60" width="60" alt="GIF" src="https://github.com/TarachaR/TarachaR/assets/67068918/c72a1e0b-7c39-4c43-96fc-dc72fec3a201" /> Sail the Digital Seas: Chart Your Course Through My Code Archipelago!
 </h1>
@@ -7,7 +8,6 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<img align="left" width="1500" height="10" src="https://github.com/TarachaR/TarachaR/assets/67068918/e89267bf-c34e-4497-b3c6-0caa3dd1f0d4.gif">
 
 <img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
