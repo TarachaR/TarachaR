@@ -1,5 +1,5 @@
 <!--INTRODUCTION-->
-![Green and White Technology LinkedIn Banner](https://github.com/TarachaR/TarachaR/assets/67068918/36e0c2ca-8e53-4dd4-b7ed-64f1ae5bc719)
+![Green and White Technology LinkedIn Banner(1)](https://github.com/TarachaR/TarachaR/assets/67068918/cd2b24d3-55f7-497a-aadf-dd43ec683f58)
 <img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 ---
@@ -52,6 +52,7 @@
 
 
 <img align="left" width="1500" height="10" src="https://github.com/TarachaR/TarachaR/assets/67068918/6d720dae-2dba-45cf-8828-f3c16f6528bb.gif">
+
 
 ![Green and White Technology LinkedIn Banner](https://github.com/TarachaR/TarachaR/assets/67068918/36e0c2ca-8e53-4dd4-b7ed-64f1ae5bc719)
 
