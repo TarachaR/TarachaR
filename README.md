@@ -44,6 +44,7 @@
 </table>
 
 <h3 align="center"><i>"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</i></h3>
+
 ![Black-Elegant-Personal-LinkedIn-Banner-New-LinkedIn-Banner](https://github.com/TarachaR/TarachaR/assets/67068918/fe5a4614-f9ae-41f5-8c57-177a3281010c)
 
 
