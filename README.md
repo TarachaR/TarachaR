@@ -44,15 +44,6 @@
 </table>
 
 <h3 align="center"><i>"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</i></h3>
-
-<img align="left" width="1500" height="10" src="https://github.com/TarachaR/TarachaR/assets/67068918/e89267bf-c34e-4497-b3c6-0caa3dd1f0d4.gif">
-
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-
-
-
-<img align="left" width="1500" height="10" src="https://github.com/TarachaR/TarachaR/assets/67068918/6d720dae-2dba-45cf-8828-f3c16f6528bb.gif">
-
 ![Black-Elegant-Personal-LinkedIn-Banner-New-LinkedIn-Banner](https://github.com/TarachaR/TarachaR/assets/67068918/fe5a4614-f9ae-41f5-8c57-177a3281010c)
 
 
