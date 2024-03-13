@@ -1,5 +1,5 @@
 <!--INTRODUCTION-->
-![Green and White Technology LinkedIn Banner(1)](https://github.com/TarachaR/TarachaR/assets/67068918/cd2b24d3-55f7-497a-aadf-dd43ec683f58)
+![Green-and-White-Technology-LinkedIn-Banner-New-LinkedIn-Banner](https://github.com/TarachaR/TarachaR/assets/67068918/4686ba11-386f-4b57-93c8-9f7640532e2f)
 <img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 ---
@@ -43,6 +43,7 @@
 <h3 align="center"><i>"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</i></h3>
 
 ![Black-Elegant-Personal-LinkedIn-Banner-New-LinkedIn-Banner](https://github.com/TarachaR/TarachaR/assets/67068918/fe5a4614-f9ae-41f5-8c57-177a3281010c)
+
 
 
 
