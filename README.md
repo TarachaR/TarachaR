@@ -29,6 +29,8 @@
 
 ![This is where I share some of the code I have written for fun or learning  I hope you find something interesting or useful here(1)](https://github.com/TarachaR/TarachaR/assets/67068918/5f04c74e-7bd1-49d4-9f72-c0170cee1e41)
 
+<img align="right" width="1000" height="400" src="https://github.com/TarachaR/TarachaR/assets/67068918/5f04c74e-7bd1-49d4-9f72-c0170cee1e41.svg">
+
 <table>
 <tr>
 
