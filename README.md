@@ -3,9 +3,29 @@
 
 ---
 
-<img align="left" src="https://github.com/TarachaR/TarachaR/assets/67068918/5a5716df-3581-4abe-91ff-e9ecc32f8401" alt="This is where I share some of the code I have written for fun or learning  I hope you find something interesting or useful here" width="400" />
-
 <img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
+
+---
+
+<h3 style="text-align: left;">🌟This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here.
+</br>
+  </br>
+  🌟I'm always open to feedback and suggestions, so feel free to leave a comment or a star. 
+  </br>
+  </br>
+  🌟If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</h3>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<!--TOOLS & TECHNOLOGIES-->
+
+---
 
 
 <table>
