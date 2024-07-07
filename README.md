@@ -1,19 +1,19 @@
 <!--INTRODUCTION-->
 ![Green and White Technology LinkedIn Banner](https://github.com/TarachaR/TarachaR/assets/67068918/4c816c05-ebbe-4e77-ad22-dfca2d5e545f)
 
----
+
 
 <img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 ---
 
-<h3 style="text-align: left;">🌟This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here.
+<h3 style="text-align: left;">🌟<i>This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here.</i>
 </br>
   </br>
-  🌟I'm always open to feedback and suggestions, so feel free to leave a comment or a star. 
+  🌟<i>I'm always open to feedback and suggestions, so feel free to leave a comment or a star.</i>
   </br>
   </br>
-  🌟If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</h3>
+  🌟<i>If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</i>></h3>
 &nbsp;
 &nbsp;
 &nbsp;
