@@ -3,8 +3,8 @@
 
 ---
 
+<img align="left" src="https://github.com/TarachaR/TarachaR/assets/67068918/5a5716df-3581-4abe-91ff-e9ecc32f8401" alt="This is where I share some of the code I have written for fun or learning  I hope you find something interesting or useful here" />
 
-<img align="left" width="300" height="300" src="https://github.com/TarachaR/TarachaR/assets/67068918/082412a1-1f85-43ee-840e-e19bd515fd2b.png">
 <img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 
