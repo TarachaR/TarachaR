@@ -5,7 +5,7 @@
 
 
 <img align="left" width="500" height="400" src="https://github.com/TarachaR/TarachaR/assets/67068918/082412a1-1f85-43ee-840e-e19bd515fd2b.png">
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 
 <table>
