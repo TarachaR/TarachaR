@@ -1,28 +1,16 @@
 <!--INTRODUCTION-->
 ![Green and White Technology LinkedIn Banner](https://github.com/TarachaR/TarachaR/assets/67068918/4c816c05-ebbe-4e77-ad22-dfca2d5e545f)
-<img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 ---
 
-<h3 style="text-align: left;">🌟This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here.
-</br>
-  </br>
-  🌟I'm always open to feedback and suggestions, so feel free to leave a comment or a star. 
-  </br>
-  </br>
-  🌟If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</h3>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
-<!--TOOLS & TECHNOLOGIES-->
+<img align="left" width="500" height="400" src="https://github.com/TarachaR/TarachaR/assets/67068918/082412a1-1f85-43ee-840e-e19bd515fd2b.png">
+<img align="right" width="490" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 ---
+
+
+
 
 
 <table>
@@ -43,6 +31,8 @@
 <h3 align="center"><i>"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</i></h3>
 
 ![Black-Elegant-Personal-LinkedIn-Banner-New-LinkedIn-Banner](https://github.com/TarachaR/TarachaR/assets/67068918/fe5a4614-f9ae-41f5-8c57-177a3281010c)
+<img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
+<img align="left" width="500" height="400" src="https://user-images.githubusercontent.com/67068918/213999433-1efea580-a36c-46ff-9b6e-43c3251f9a9e.gif">
 
 
 
