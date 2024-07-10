@@ -26,7 +26,8 @@
 <!--TOOLS & TECHNOLOGIES-->
 
 ---
-![try this](https://github.com/TarachaR/TarachaR/assets/67068918/89c31001-9048-4b8c-8b34-d428a6f0d272)
+![try this(1)](https://github.com/TarachaR/TarachaR/assets/67068918/826ca361-caac-4172-a89e-326978e0a55d)
+
 
 <table>
 <tr>
@@ -46,11 +47,3 @@
 <h3 align="center"><i>"Crafted with 💖 and a sprinkle of code wizardry, this repository is the brainchild of Richard Taracha."</i></h3>
 
 ![Black-Elegant-Personal-LinkedIn-Banner-New-LinkedIn-Banner](https://github.com/TarachaR/TarachaR/assets/67068918/fe5a4614-f9ae-41f5-8c57-177a3281010c)
-
-
-
-
-
-
-
-
