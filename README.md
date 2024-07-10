@@ -7,13 +7,13 @@
 
 ---
 
-<h3 style="text-align: left;">🌟<i>This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here.</i>
+<h3 style="text-align: left;">🟢<i>This is where I share some of the code I have written for fun or learning. I hope you find something interesting or useful here.</i>
 </br>
   </br>
-  🌟<i>I'm always open to feedback and suggestions, so feel free to leave a comment or a star.</i>
+  🟢<i>I'm always open to feedback and suggestions, so feel free to leave a comment or a star.</i>
   </br>
   </br>
-  🌟<i>If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</i></h3>
+  🟢<i>If you have any questions or issues with my code, please let me know and I'll try to help you out. Thank you for visiting my page and have a great day.</i></h3>
 &nbsp;
 &nbsp;
 &nbsp;
